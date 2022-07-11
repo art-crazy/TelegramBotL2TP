@@ -1,4 +1,4 @@
 # token бота полученный у BotFather
-token = '5180510935:AAGTosrgdbsBFsdr65Yavf2wOUSwWUKr-tE'
+token = 'TOKEN DELETE'
 # пользоватльские ID телеграма которым разрешен доступ к функции баланса.
-admin = ['233699214']
+admin = ['SECURE INFO']
